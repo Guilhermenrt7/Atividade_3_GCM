@@ -4,4 +4,4 @@ Este é o repositório atualizado para a lista de exercicios da semana 9 de mat�
  
 # Contribuidor
 
-https://github.com/Guilhermenrt7
+Contribua de forma que fique facil para todos os outros envolvidos no projeto entendam o que está acontecendo
